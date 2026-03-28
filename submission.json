@@ -1,0 +1,6 @@
+{
+    "prompt": "A photorealistic, highly detailed, slightly uncanny architectural photo of a massive, ancient stone wall. The wall is built out of hundreds of long, rectangular stone blocks. Every single individual stone block is visibly and sharply tilted downwards to the right. However, inexplicably, the way the blocks are stacked on top of each other creates a massive overall wall structure that undeniably and steeply climbs upwards to the left. The image contains no text, no numbers, and no charts. It is a deeply unresolvable, physically impossible optical illusion of local downward slopes stacked to create a global upward slope. Natural bright orange sunlight, high contrast, uncanny atmosphere.",
+    "model": "DALL-E 3",
+    "paradox": "Simpson's Paradox",
+    "visual_logic": "Every individual stone block angles downwards (the subgroup trend), yet they physically stack to build a wall that climbs steeply upwards (the combined group trend), creating a visual contradiction mirroring the mathematical reversal of Simpson's Paradox."
+}
